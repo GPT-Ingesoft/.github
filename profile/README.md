@@ -1,22 +1,22 @@
-# 🧪 SysLab Control
+#  SysLab Control
 
 Sistema de Gestión de Mantenimiento para Equipos de Laboratorio del área de Sistemas de la Universidad Nacional de Colombia sede Bogotá.
 
 ---
 
-## 📌 Nombre del Proyecto
+##  Nombre del Proyecto
 
 **SysLab Control**
 
 ---
 
-## 👥 Nombre del Grupo
+##  Nombre del Grupo
 
 **GPT**
 
 ---
 
-## 📧 Integrantes y Contacto
+##  Integrantes y Contacto
 
 A continuación se listan los integrantes del grupo y sus respectivos correos electrónicos:
 
@@ -25,11 +25,9 @@ A continuación se listan los integrantes del grupo y sus respectivos correos el
 - Juan Carlos Manrique Benavides – jumanriqueb@unal.edu.co
 - Martin José Botina Gonzalez - mbotina@unal.edu.co
 
-> *(Actualizar esta sección con la información real de los integrantes activos y colaboradores.)*
-
 ---
 
-## 📖 Descripción del Proyecto
+##  Descripción del Proyecto
 
 **SysLab Control** es una aplicación web monolítica diseñada para gestionar de manera eficiente el mantenimiento de los equipos pertenecientes a los laboratorios del área de Sistemas de la Universidad Nacional de Colombia.
 
@@ -47,6 +45,6 @@ A través de una base de datos relacional, el sistema almacenará información s
 
 ---
 
-## 🎯 Enfoque del Sistema
+##  Enfoque del Sistema
 
 SysLab Control no depende de servicios externos para su funcionamiento principal, ya que su núcleo está basado en lógica de negocio interna y gestión estructurada de datos, cumpliendo con los lineamientos académicos del proyecto.
